@@ -1,6 +1,5 @@
 public class NameGenerator {
     public NameGenerator() {
-        String userName = "";
     }
 
     public String GetSillyName(String userName) {
